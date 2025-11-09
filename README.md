@@ -1,2 +1,1 @@
-行商浪人对话图片生成器
-https://xuezegezi.github.io/
+行商浪人对话生成器https://xuezegezi.github.io/rt-chat-maker/
